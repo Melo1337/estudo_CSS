@@ -1,0 +1,8 @@
+z-index 1 => deixa o elemento com pioridade maxima
+
+position absolute => Não irá ocupar espaço no html (sobrepondo outros itens)
+
+position relative => aplicada no container desejado que o elemento fique relativo a ele
+
+Position fixed => Fixa oque voce quiser na tela, certo para usar em um menu
+

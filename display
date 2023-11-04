@@ -1,0 +1,9 @@
+-------------------------------------------------------
+Positon é uma forma desorganizada de organizar os itens
+-------------------------------------------------------
+
+display flex => sempre aplicado no container para os elementos filhos se ajustarem de acordo a ele
+
+flex warp => quebra o espaço
+
+flex => aplicassse ao elemento filho para deixar um tamanho padrao entre eles
